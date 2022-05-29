@@ -9,23 +9,22 @@ textarea {resize: none;}
 	margin: auto;
 	height: 740px;
 	padding: 5px;
-	background: #E5E5E5;				}
+	background: #E5E5E5;}
 
 #vector {position: relative;
-		margin-top: 20px;
-		margin-left: 20px;
-		top: -10px;				}
+	margin-top: 20px;
+	margin-left: 20px;
+	top: -10px;}
 
 #logo{	background-color: #E5E5E5;
 		height: 100px;
 		width: 70%;			
 		float: left;}
 
-#textoarea{background-color: #E5E5E5;
-			float: left;
-			height: 500px;
-			width: 70%;
-							}
+#textoarea{	background-color: #E5E5E5;
+		float: left;
+		height: 500px;
+		width: 70%;}
 
 textarea:focus {outline: none;}
 
@@ -112,7 +111,7 @@ textarea:focus {outline: none;}
 	#textoCodificado { 	position: relative;
 				left: 38px;
 				width: 78%;
-				height: 80px;
+				height: 100px;
 				top: 0px;
 				text-align: center;
 				font-size: 16px;

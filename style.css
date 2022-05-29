@@ -14,17 +14,18 @@ textarea {resize: none;}
 #vector {position: relative;
 	margin-top: 20px;
 	margin-left: 20px;
-	top: -10px;}
+	top: -10px;	}
 
 #logo{	background-color: #E5E5E5;
 		height: 100px;
 		width: 70%;			
 		float: left;}
 
-#textoarea{	background-color: #E5E5E5;
+#textoarea{background-color: #E5E5E5;
 		float: left;
 		height: 500px;
-		width: 70%;}
+		width: 70%;
+							}
 
 textarea:focus {outline: none;}
 
@@ -38,8 +39,8 @@ textarea:focus {outline: none;}
 		text-align: center;
 		top: 140;	}
 
-.texto::placeholder {	position: relative;
-	             	 color: darkblue;
+.texto::placeholder {position: relative;
+	    		color: darkblue;
 			font-family: Inter;
 			font-size:28px ;		
 			right: 180px;
@@ -63,7 +64,7 @@ textarea:focus {outline: none;}
 		background-color: darkblue;
 		font-size: 16px;
 		font-family: Inter;
-				}
+					}
 
 .botão {display: inline;
 		background: darkblue;	
@@ -78,9 +79,13 @@ textarea:focus {outline: none;}
 		font-weight: bold 400;
 		border-radius: 18px;
 		margin: 5px 0px 0px 35px;
-		text-align: center;}
+		text-align: center;
 
-#textoarea2 { 	display: inline;
+
+					}
+
+
+#textoarea2 { display: inline;
 		border: none;
 		border: unset;
 		position: absolute;
@@ -108,21 +113,22 @@ textarea:focus {outline: none;}
 	left: 200px;	
 	top: 200px;}
 
-	#textoCodificado { 	position: relative;
-				left: 38px;
-				width: 70%;
-				height: 80px;
-				top: 0px;
-				text-align: center;
-				font-size: 16px;
-				font-weight: 400;
-				font-family: 'Inter';
-				color: gray;
-				border-radius: 5px;
-				border: none ;
-				text-decoration: inherit;
-				style.display: show;
-				style.display: inherit;	}
+	#textoCodificado { position: relative;
+			  left: 38px;
+			 width: 78%;
+			height: 70px;
+			top: 0px;
+			text-align: center;
+			line-height: 150%;
+			font-size: 16px;
+			font-weight: 400;
+			font-family: 'Inter';
+			color: gray;
+			border-radius: 5px;
+			border: none ;
+			text-decoration: inherit;
+			style.display: show;
+			style.display: inherit;	}
 
 #textoCodificado::placeholder {	position: relative;
 				top: 15px;
@@ -134,17 +140,18 @@ textarea:focus {outline: none;}
 				line-height: 120%;
 				color: #343A40;
 				vertical-align: Top;}
+label 		{position: relative;
+		text-align: center;
+		top: 160px;	
+		left: 82px;		
+		width: 78%;	
+		font-family: Inter;
+		font-size: 16px;
+		line-height: 24px;
+		line-height: 150%;
+		font-style: regular;
+		color: gray;}
 
-label {position: relative;
-	text-align: center;
-	top: 160px;	
-	left: 82px;		
-	width: 78%;	
-	font-family: Inter;
-	font-size: 16px;
-	line-height: 24px;
-	line-height: 150%;
-	font-style: regular;
-	color: gray;}
+
 
 

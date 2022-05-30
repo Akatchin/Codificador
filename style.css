@@ -55,7 +55,7 @@ textarea:focus {outline: none;}
 .botãocopiar {	height: 50px;
 		width: 200px;
 		top: 555px;	
-		left: 40px;
+		left: 30px;
 		border-radius: 30px;
 		margin: 5px 0px 0px 45px;
 		position: absolute;
@@ -114,9 +114,9 @@ textarea:focus {outline: none;}
 	top: 200px;}
 
 	#textoCodificado { position: relative;
-			  left: 45px;
+			  left: 40px;
 			 width: 78%;
-			height: 70px;
+			height: 90px;
 			top: 0px;
 			text-align: center;
 			line-height: 150%;
@@ -143,7 +143,7 @@ textarea:focus {outline: none;}
 label 		{position: relative;
 		text-align: center;
 		top: 160px;	
-		left: 82px;		
+		left: 70px;		
 		width: 78%;	
 		font-family: Inter;
 		font-size: 16px;
